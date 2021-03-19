@@ -9,7 +9,7 @@ This link will take you to amazon.ca: [https://markskinner92.github.io/QRredirec
 Edit your index.html like this:
 ```
 {
-  0: "default/fallback URL", <- if there's a wierd ID or no id
+  0: "default/fallback URL", <- if there is no ID, the ID is 0, or the ID isn't listed below
   
   ID : "URL",
   ID : "URL",
