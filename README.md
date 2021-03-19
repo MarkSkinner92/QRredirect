@@ -1,5 +1,6 @@
 ## Example
 This link will take you to amazon.ca: [https://markskinner92.github.io/QRredirect/?id=1](https://markskinner92.github.io/QRredirect/?id=1)
+This link will take you to ebay.com: [https://markskinner92.github.io/QRredirect/?id=2](https://markskinner92.github.io/QRredirect/?id=2)
 
 ## Instructions
 1. Clone this project to your own Github account
