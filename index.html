@@ -3,7 +3,13 @@
   <body onload="redirect()">
     <script type="text/javascript">
       function redirect(){
-        window.location = 'https://google.com';
+        const url={
+          0: 'https://google.com',
+          1: 'https://amazon.ca',
+          2: 'https://ebay.com',
+        }
+        [new URLSearchParams(window.location.search).get('id')||0];
+        window.location=url;
       }
     </script>
   </body>
